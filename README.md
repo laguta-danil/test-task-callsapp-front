@@ -10,6 +10,12 @@ Now you can start the project with
 
 ### `npm start`
 
+When your start backend its generated user 'admin' automatically 
+
+You can use this credentials for access: 
+
+Login: admin
+Passwod: admin
 
 
 
